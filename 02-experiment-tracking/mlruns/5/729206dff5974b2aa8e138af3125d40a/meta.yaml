@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/MLops/02-experiment-tracking/mlruns/5/models/m-f5ed874a3f404629bb78a7aa86d80eec/artifacts/MLmodel
+creation_time: 1749835270271
+experiment_id: '5'
+last_update_time: 1749835270271
+lifecycle_stage: active
+name: nyc-taxi-experiment3
