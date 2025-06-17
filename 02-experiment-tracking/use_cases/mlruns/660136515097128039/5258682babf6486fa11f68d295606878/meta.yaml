@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/MLops/02-experiment-tracking/use_cases/mlruns/660136515097128039/5258682babf6486fa11f68d295606878/artifacts
+end_time: 1750192572451
+entry_point_name: ''
+experiment_id: '660136515097128039'
+lifecycle_stage: active
+run_id: 5258682babf6486fa11f68d295606878
+run_name: serious-shrew-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750192568758
+status: 3
+tags: []
+user_id: codespace
