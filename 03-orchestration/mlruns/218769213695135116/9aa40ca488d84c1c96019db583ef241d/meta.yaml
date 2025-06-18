@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/218769213695135116/9aa40ca488d84c1c96019db583ef241d/artifacts
+end_time: 1750256423812
+entry_point_name: ''
+experiment_id: '218769213695135116'
+lifecycle_stage: active
+run_id: 9aa40ca488d84c1c96019db583ef241d
+run_name: skittish-shad-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750256380247
+status: 3
+tags: []
+user_id: codespace

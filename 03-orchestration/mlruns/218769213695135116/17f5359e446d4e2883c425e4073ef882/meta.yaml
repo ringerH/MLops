@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/218769213695135116/17f5359e446d4e2883c425e4073ef882/artifacts
+end_time: 1750256331198
+entry_point_name: ''
+experiment_id: '218769213695135116'
+lifecycle_stage: active
+run_id: 17f5359e446d4e2883c425e4073ef882
+run_name: fun-ray-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750256297915
+status: 4
+tags: []
+user_id: codespace
