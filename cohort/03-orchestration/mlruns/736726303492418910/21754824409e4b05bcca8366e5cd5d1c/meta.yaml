@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/736726303492418910/21754824409e4b05bcca8366e5cd5d1c/artifacts
+end_time: 1750273765529
+entry_point_name: ''
+experiment_id: '736726303492418910'
+lifecycle_stage: active
+run_id: 21754824409e4b05bcca8366e5cd5d1c
+run_name: brawny-flea-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750273719680
+status: 4
+tags: []
+user_id: codespace

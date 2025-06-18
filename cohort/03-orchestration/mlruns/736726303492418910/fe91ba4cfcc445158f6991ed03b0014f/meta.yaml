@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/736726303492418910/fe91ba4cfcc445158f6991ed03b0014f/artifacts
+end_time: 1750274011261
+entry_point_name: ''
+experiment_id: '736726303492418910'
+lifecycle_stage: active
+run_id: fe91ba4cfcc445158f6991ed03b0014f
+run_name: shivering-steed-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750273963916
+status: 4
+tags: []
+user_id: codespace

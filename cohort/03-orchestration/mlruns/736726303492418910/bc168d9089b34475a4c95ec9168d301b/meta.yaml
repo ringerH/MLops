@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/736726303492418910/bc168d9089b34475a4c95ec9168d301b/artifacts
+end_time: 1750273705251
+entry_point_name: ''
+experiment_id: '736726303492418910'
+lifecycle_stage: active
+run_id: bc168d9089b34475a4c95ec9168d301b
+run_name: zealous-flea-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750273685414
+status: 4
+tags: []
+user_id: codespace

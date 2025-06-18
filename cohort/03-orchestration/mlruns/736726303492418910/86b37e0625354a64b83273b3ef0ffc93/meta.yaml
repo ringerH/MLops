@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/736726303492418910/86b37e0625354a64b83273b3ef0ffc93/artifacts
+end_time: 1750273963904
+entry_point_name: ''
+experiment_id: '736726303492418910'
+lifecycle_stage: active
+run_id: 86b37e0625354a64b83273b3ef0ffc93
+run_name: angry-fish-305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750273885787
+status: 3
+tags: []
+user_id: codespace
