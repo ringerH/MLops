@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/258041344271621480
+creation_time: 1750435463295
+experiment_id: '258041344271621480'
+last_update_time: 1750435463295
+lifecycle_stage: active
+name: nyc-taxi-experiment-prefect

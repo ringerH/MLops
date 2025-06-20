@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/258041344271621480/a43bf0d826fe4698ae420fb32fc50503/artifacts
+end_time: 1750435489244
+entry_point_name: ''
+experiment_id: '258041344271621480'
+lifecycle_stage: active
+run_id: a43bf0d826fe4698ae420fb32fc50503
+run_name: adaptable-conch-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750435467164
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/258041344271621480/2077c3aa60d8422c8ed99989855b9fa8/artifacts
+end_time: 1750436103174
+entry_point_name: ''
+experiment_id: '258041344271621480'
+lifecycle_stage: active
+run_id: 2077c3aa60d8422c8ed99989855b9fa8
+run_name: able-cow-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750436081491
+status: 3
+tags: []
+user_id: codespace
